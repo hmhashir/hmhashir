@@ -1,5 +1,15 @@
-👋 Hi there! I'm Muhammad Hashir, a 5th-semester Data Science student at PUCIT. I’m passionate about exploring data, building machine learning models, and finding innovative solutions to real-world problems. My journey in data science involves working on projects that span data analysis, predictive modeling, and data visualization.
+# Muhammad Hashir
 
-I’m always looking to learn, collaborate, and grow my skillset. Feel free to check out my repositories, and if you have any questions, ideas, or opportunities, don’t hesitate to reach out.
+### BS Data Science @ PUCIT ’26
+Aspiring Data Analyst & Scientist | Exploring AI, ML, and Deep Learning
+Skilled in Python, SQL, Power BI, Pandas, NumPy, and Scikit-learn
+Open to Freelancing Projects, Internships, and Collaborative Work
 
-📧 Contact: contact.hmhashir@gmail.com
+## Skills
+
+Programming & Databases: Python, SQL
+Data Analysis & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning: Scikit-learn (Supervised & Unsupervised Learning), TensorFlow (in progress)
+Other Expertise: Data Cleaning, Data Transformation, Exploratory Data Analysis
+
+Always learning, always building - working to turn data into actionable insights and AI-driven solutions.
