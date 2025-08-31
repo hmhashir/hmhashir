@@ -16,10 +16,10 @@ Open to Freelancing Projects, Internships, and Collaborative Work
 
 ---
 
-## Projects
+<!-- ## Projects
 
 - **Sales Insights Dashboard** – Built an interactive Power BI dashboard for analyzing sales trends  
 - **Movie Recommendation System** – Implemented collaborative filtering using Python and Pandas  
-- **Urban Heat Analysis (Case Study of Lahore)** – Applied Python and ML to analyze the cooling effects of urban green spaces (FYP-related)  
+- **Urban Heat Analysis (Case Study of Lahore)** – Applied Python and ML to analyze the cooling effects of urban green spaces (FYP-related) -->  
 
 *Always learning, always building — working to turn data into actionable insights and AI-driven solutions.*
